@@ -13,6 +13,7 @@ Things I'm interested in are:
 - Much more...
 
 🤔 I’m looking for help with anything coding related, since this is all very new to me. 
+
 📫 How to reach me: andre.zen799@gmail.com my personal e-mail address.
 
 Enjoy!!! 
