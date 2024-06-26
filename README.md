@@ -1,8 +1,8 @@
-# Hi there 👋
+# Greetings! 👋
 
-Welcome to Andrei's personal Githib repository. 
+Welcome to my own personal Githib repository. 
 
-As an aspiring Network and Security Engineer, I'm currently enrolled in a Dawson program in regards to CCNA and Linux networking, I base my working projects mainly in regards to these topics as well as the development of tools I need in order to facilitate my stuies in general. There are a few projects in the pipeline, will share them here as I gather the resources and knowledge to develop them. Be patient as I'm continuously learning in order to better myself! ;-)
+As an aspiring Network and Security Engineer, I'm currently enrolled at Dawson College in a preparation program for CCNA and Linux networking. I base my current projects mainly in regards to these topics as well as the development of tools I need in order to facilitate my personal stuies and quality of life in general. There are a few projects in the cuirrent pipeline, and I will certainly share them here as I gather the resources and knowledge to develop them. Be patient as I'm continuously learning in order to better myself! ;-)
 
 My areas of interest are in:
 
